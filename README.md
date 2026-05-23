@@ -1,1 +1,1 @@
-# Puzzle-Game
+The Java Puzzle Game is a simple application developed using Java that provides an enjoyable puzzle-solving experience. It helps improve logical thinking and problem-solving skills through a user-friendly interface.
